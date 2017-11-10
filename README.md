@@ -1,1 +1,2 @@
-# Platformer-lab-7-collecting-coins
+# JSPlatformer
+JS Platformer for DIG 3480C
